@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">midExam</string>
+    <string name="Exam1Activity1Open">Exam1Activity열기</string>
+    <string name="Exam1Activity2Open">Exam2Activity열기</string>
+    <string name="action_exam1Activity">Exam1Activity</string>
+    <string name="action_exam2Activity">Exam2Activity</string>
+    <string name="save">저장</string>
+    <string name="delete">지우기</string>
+    <string name="cat">고양이</string>
+    <string name="dog">강아지</string>
+    <string name="bus">버스</string>
+    <string name="metro">지하철</string>
+
+
+</resources>
